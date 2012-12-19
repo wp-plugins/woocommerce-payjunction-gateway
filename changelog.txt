@@ -1,4 +1,0 @@
-*** PayJunction Changelog ***
-
-2012.02.19 - version 1.0
- * First Release
